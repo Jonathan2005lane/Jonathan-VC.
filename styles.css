@@ -1,0 +1,80 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0 1rem;
+}
+
+header, footer {
+  text-align: center;
+  padding: 1.5rem 0;
+  background-color: #1f1f1f;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  max-width: 700px;
+  margin: 2rem auto;
+}
+
+.cta-button {
+  display: inline-block;
+  background-color: #0078d4;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+
+.cta-button:hover {
+  background-color: #005a9e;
+}
+
+.investors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+article {
+  background-color: #1f1f1f;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+nav a {
+  color: #0078d4;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+form label {
+  font-weight: 600;
+}
+
+form input, form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: none;
+  border-radius: 4px;
+}
+
+form input[type="submit"] {
+  background-color: #0078d4;
+  color: white;
+  cursor: pointer;
+  border: none;
+}
+
+form input[type="submit"]:hover {
+  background-color: #005a9e;
+}
