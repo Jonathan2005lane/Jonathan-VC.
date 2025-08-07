@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Jonathan Landgren - CVCS</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header>
+  <h1>Jonathan Landgren – CVCS | Chief Venture Capital Scout</h1>
+</header>
+<main>
+  <section>
+    <p>I’m a young and driven entrepreneur with a mission to find the next big company. I work with angel investors to help startups that have begun scaling and are ready for the next level. If you're looking for capital, connections, or strategic guidance — send me your pitch.</p>
+    <a href="contact.html" class="cta-button">Send Me Your Pitch →</a>
+  </section>
+</main>
+<footer>
+  <p>© Jonathan Landgren 2025</p>
+</footer>
+</body>
+</html>
